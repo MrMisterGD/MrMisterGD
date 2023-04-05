@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+```yaml
 name: Gonzalo Decap
 located_in: Santiago, CL
 function: Web Developer
@@ -22,3 +23,4 @@ fields_of_interest:
     "Learn C++ or C#",
   ]
 hobbies: ["Gaming", "Tv Shows", "Films", "Being outdoors"]
+```
