@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Name: Gonzalo Decap  
 Located in: Santiago, CL  
 Function: Web Developer  
@@ -11,7 +9,7 @@ Education:
 Fields of Interest:  
 - Web Development  
 - Application Development  
-- AI/Machine Learning
+- AI/Machine Learning  
 
 2023 Goals:  
 - Become a Software developer  
