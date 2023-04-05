@@ -9,7 +9,9 @@ Education:
 Fields of Interest:  
 - Web Development  
 - Application Development  
-- AI/Machine Learning    
+- AI/Machine Learning  
+- SaaS Solutions  
+- DevOps/Agile  
 
 2023 Goals:  
 - Become a Software developer  
