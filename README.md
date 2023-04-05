@@ -1,3 +1,5 @@
+# Hi there! <img src="https://raw.githubusercontent.com/peterrauscher/peterrauscher/master/wave.gif" width="30px" height="30px" />
+
 ```yaml
 Name: Gonzalo Decap  
 Located in: Santiago, CL  
