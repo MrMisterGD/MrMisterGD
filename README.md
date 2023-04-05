@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**MrMisterGD/MrMisterGD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+name: Gonzalo Decap
+located_in: Santiago, CL
+function: Web Developer
+education:
+  [
+    "Graduated from Coding Dojo in Apr 2023",
+    "Full Stack + Python Course"
+  ]
+fields_of_interest:
+  [
+    "Web Development",
+    "Application Development",
+    "AI/Machine Learning",
+    "SaaS Solutions",
+    "DevOps/Agile",
+  ]
+2023_goals:
+  [
+    "Become a Software developer",
+    "Learn C++ or C#",
+  ]
+hobbies: ["Gaming", "Tv Shows", "Films", "Being outdoors"]
