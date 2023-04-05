@@ -1,3 +1,4 @@
+```yaml
 Name: Gonzalo Decap  
 Located in: Santiago, CL  
 Function: Web Developer  
@@ -20,3 +21,4 @@ Hobbies:
 - TV Shows  
 - Films  
 - Being outdoors  
+```
