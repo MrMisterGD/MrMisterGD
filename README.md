@@ -1,23 +1,21 @@
-Name: Gonzalo Decap  
-Located in: Santiago, CL  
-Function: Web Developer  
+**Name:** Gonzalo Decap  
+**Located in:** Santiago, CL  
+**Function:** Web Developer  
 
-Education:  
+**Education:**  
 - Graduated from Coding Dojo in Apr 2023  
 - Full Stack + Python Course  
 
-Fields of Interest:  
+**Fields of Interest:**  
 - Web Development  
 - Application Development  
 - AI/Machine Learning  
-- SaaS Solutions  
-- DevOps/Agile  
 
-2023 Goals:  
+**2023 Goals:**  
 - Become a Software developer  
 - Learn C++ or C#  
 
-Hobbies:  
+**Hobbies:**  
 - Gaming  
 - TV Shows  
 - Films  
