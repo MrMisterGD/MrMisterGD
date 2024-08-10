@@ -8,20 +8,22 @@ Function: Web Developer
 Education:  
   [
     "Graduated from Coding Dojo in Apr 2023",  
-    "Full Stack + Python Course",  
+    "Full Stack + Python Course",
+    "Unity courses"
   ]
 
 Fields of Interest:  
   [
     "Web Development",  
     "Application Development",  
-    "AI/Machine Learning"  
+    "AI/Machine Learning",
+    "Game development"  
   ]
 
-2023 Goals:  
-  [
-    "Become a Software developer",  
-    "Learn C++ or C#"  
+2024 Goals:  
+  [  
+    "Learn Unity as a pro",
+    "Start my fir"
   ]
 
 Hobbies: ["Gaming", "TV Shows", "Films", "Being outdoors"]
