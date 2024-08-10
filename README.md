@@ -23,7 +23,7 @@ Fields of Interest:
 2024 Goals:  
   [  
     "Learn Unity as a pro",
-    "Start my fir"
+    "Start to create my first videogame"
   ]
 
 Hobbies: ["Gaming", "TV Shows", "Films", "Being outdoors"]
