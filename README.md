@@ -1,8 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/peterrauscher/peterrauscher/master/wave.gif" width="30px" height="30px" />
 
 ```yaml
-Name: Gonzalo Decap  
-Located in: Santiago, CL  
 Function: Web Developer  
 
 Education:  
@@ -17,13 +15,8 @@ Fields of Interest:
     "Web Development",  
     "Application Development",  
     "AI/Machine Learning",
-    "Game development"  
-  ]
-
-2024 Goals:  
-  [  
-    "Learn Unity as a pro",
-    "Start to create my first videogame"
+    "Game development",
+    "CyberSec"
   ]
 
 Hobbies: ["Gaming", "TV Shows", "Films", "Being outdoors"]
